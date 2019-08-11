@@ -1,5 +1,5 @@
-# django-typescript
-Generate TypeScript types from django framework using Opan Api 3
+# django-typescript-react starter example
+Django React TypeScript starter example with generated types from django framework using Opan Api 3
 
 Generate openapi schema in django
 ```
